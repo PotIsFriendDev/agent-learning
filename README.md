@@ -1,4 +1,4 @@
-# Claude AI Agent 学习项目 (重构版)
+#  AI Agent 学习项目 (重构版)
 
 这是一个关于 AI Agent (人工智能体) 的学习实现项目，采用了**编排层 (Orchestration Layer)** 与 **计算层 (Computation Layer)** 分离的解耦架构。
 
