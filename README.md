@@ -1,4 +1,4 @@
-# Claude Agent Learning Project (Refactored)
+#  Agent Learning Project (Refactored)
 
 This project is a learning implementation of an AI Agent, split into an Orchestration layer and a Computation layer.
 
