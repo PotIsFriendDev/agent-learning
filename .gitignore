@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Build directories
+dist/
+build/
